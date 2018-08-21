@@ -30,3 +30,7 @@ Los clientes desean que dicha web-app sea lo más fácil posible de manejar, que
 ### Se realizó una visita a la lavandería y se tomaron fotos de la misma, aquí el enlace:
 [_Click aquí_](https://drive.google.com/drive/folders/1LhUJh1aGiIx_UQ0MzhEPiti-BEitNlTf?usp=sharing)
 
+### Luego realizamos un journey map para saber definir el proceso de como interactuan en esta lavandería.
+
+![journey map](./img/cj.png)
+
