@@ -33,4 +33,3 @@ Los clientes desean que dicha web-app sea lo más fácil posible de manejar, que
 ### Luego realizamos un journey map para saber definir el proceso de como interactuan en esta lavandería.
 
 ![journey map](./img/cj.png)
-
