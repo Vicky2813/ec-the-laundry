@@ -64,6 +64,22 @@ Luego procedimos a realizar los sketches a lápiz y papel, para luego proceder a
 
 ![Costumer Journey](/img/costumer.PNG)
 
+### Ralización de Video en Loom:
+
+[_Click aquí_](https://www.useloom.com/share/6f05bd34d3244bed98da284360491e5b)
+
+
+### Conclusión:
+
+Luego de todo este proceso de investigación y testeo de nuestra app , entendimos que nuestro cliente ya esta preparado para hacer el cambio de manual a digital , comenzando por la creación de una app-móvil, en un segundo alcance esperamos poder implementar el sistema de pago en la aplicación e incluso la posibilidad de búsqueda y entregas a domicilio , notificar al usuario el envío y seguimiento de su ropa, esto le daría un plus a la app-móvil; logrando así la creación de un e-commerce.
+
+### Presentación del producto:
+[_Click aquí_](https://docs.google.com/presentation/d/1S7xeKVKcPs4nfr3B0xodK9FjWx_3_KSXfPlD4IY51cY/edit#slide=id.p1)
+
+
+
+
+
 
 
 
