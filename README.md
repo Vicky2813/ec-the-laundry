@@ -68,6 +68,18 @@ Luego procedimos a realizar los sketches a lápiz y papel, para luego proceder a
 
 [_Click aquí_](https://www.useloom.com/share/6f05bd34d3244bed98da284360491e5b)
 
+### Aquí un video de loom el cual dura mas de 10 minutos, pero consideramos que explica detalladamente todo el proceso de la investigación:
+
+[_Click aquí_](https://www.useloom.com/share/e1201d612483485080a09e53c32bb925)
+
+
+
+### Link del prototipo de alta fidelidad:
+
+[_Click aquí_](https://marvelapp.com/eaeab84/screen/47221984)
+
+
+
 
 ### Conclusión:
 
