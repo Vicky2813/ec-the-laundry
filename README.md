@@ -85,10 +85,14 @@ Luego procedimos a realizar los sketches a lápiz y papel, para luego proceder a
 
 Luego de todo este proceso de investigación y testeo de nuestra app , entendimos que nuestro cliente ya esta preparado para hacer el cambio de manual a digital , comenzando por la creación de una app-móvil, en un segundo alcance esperamos poder implementar el sistema de pago en la aplicación e incluso la posibilidad de búsqueda y entregas a domicilio , notificar al usuario el envío y seguimiento de su ropa, esto le daría un plus a la app-móvil; logrando así la creación de un e-commerce.
 
-### Presentación del producto:
+### Presentación del producto (Investigación):
 [_Click aquí_](https://docs.google.com/presentation/d/1S7xeKVKcPs4nfr3B0xodK9FjWx_3_KSXfPlD4IY51cY/edit#slide=id.p1)
 
 
+### Presentación del producto (storytelling):
+
+
+[_Click aquí_](https://docs.google.com/presentation/d/1tIiVjb1tFoFXslKJNCpHOGy_ePsLcc6bh2OFecAK3Gg/edit#slide=id.p1)
 
 
 
