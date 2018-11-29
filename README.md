@@ -1,5 +1,13 @@
 # App-the-laundry
 
+The Laundry es una app móvil, con la cual podrás llevar un seguimiento de tu ropa y recibir notificaciones push cuando tu ropa esta lista.
+
+![laundry](/img/laundry.PNG)
+
+### Desarrollado para
+
+[Laboratoria](https://www.laboratoria.la/)
+
 ### Creando un E- Commerce 
 ### Preámbulo
 Un E- commerce consiste en la distribución, venta, compra, marketing y suministro de información de productos o servicios a través de internet.  Como verán no es tan fácil crear un e-commerce, requiere llevar a cabo un proceso de investigación que va desde determinar los productos y servicios que se desean promover en línea y la manera en que los usuarios se sentiran atraídos por ellos y en confianza de comprar de manera online, para esto se necesitan entender y seguir varios pasos como lo son:
